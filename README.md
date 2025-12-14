@@ -21,8 +21,8 @@ This project is a single-page application (SPA) built with React and styled usin
 
 ## 📦 Components Structure
 
-| Component | Responsibility | State Dependency |
-| :--- | :--- | :--- |
+| Component | Responsibility|
+| :--- | :--- |
 | **`App.jsx`** | This is a main component works as Parent component.
 | **`Navbar.jsx`** | Displays the cart product and the cart product count
 | **`ProductCard.jsx`**| Renders a products which is display in the UI
